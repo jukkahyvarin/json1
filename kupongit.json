@@ -1,4 +1,4 @@
-[
+data: [
   { id: 0, name: 'Fazer-kahvila', description: 'Fazer-kahvilassa pehmeä alku päivään' },
   { id: 1, name: 'Hesburger', description: 'Hesburgerissa raskas alku päivään' },
   { id: 2, name: 'Wine Corner', description: 'Wine Cornerissa pöllyinen alku päivään' },
