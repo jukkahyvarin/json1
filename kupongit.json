@@ -1,0 +1,9 @@
+[
+  { id: 0, name: 'Fazer-kahvila', description: 'Fazer-kahvilassa pehmeä alku päivään' },
+  { id: 1, name: 'Hesburger', description: 'Hesburgerissa raskas alku päivään' },
+  { id: 2, name: 'Wine Corner', description: 'Wine Cornerissa pöllyinen alku päivään' },
+  { id: 3, name: 'Panorama', description: 'Panoramassa valoisa alku päivään' },
+  { id: 4, name: 'Uusi kuponki 1', description: 'Uusi kuponki 1' },
+  { id: 5, name: 'Uusi kuponki 2', description: 'Uusi kuponki 2' },
+  { id: 6, name: 'Uusi kuponki 3', description: 'Uusi kuponki 3' }
+];
